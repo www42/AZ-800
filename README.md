@@ -32,6 +32,4 @@
 
 ---
 
-[GitHub Universe 2023](https://githubuniverse.com/)
-
 [Microsoft Ignite 2023](https://ignite.microsoft.com/)
