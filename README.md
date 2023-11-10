@@ -1,6 +1,15 @@
 # Windows Server & Network Essentials
 
-[Get the Presentation](pdf)
+
+
+[Give Feedback!](https://www.metricsthatmatter.com/url/u.aspx?6A99A80C0204044749)
+
+[Claim your Badge!](https://api.brainymotion.de/msbadge/redeem?pid=229509&cd=YQD5ZL)
+
+[Get the Presentation!](pdf)
+
+
+---
 
 [Skillable (Learn on Demand)](https://brainymotion.learnondemand.net) (Register with Training Key)
 
