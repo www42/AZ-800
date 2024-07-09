@@ -1,7 +1,8 @@
 # Windows Server & Network Essentials
 
-[Skillable (Learn on Demand)](https://brainymotion.learnondemand.net) (Register with Training Key)
+[Präsentation](pdf/)
 
+[Skillable (Learn on Demand)](https://brainymotion.learnondemand.net) (Register with Training Key)
 
 [Microsoft Learn](https://docs.microsoft.com/en-us/learn/)
 
