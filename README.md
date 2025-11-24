@@ -14,6 +14,8 @@
 
 [Learning Pathes](https://learn.microsoft.com/en-us/training/courses/AZ-801T00)
 
+[AZ-801 Labs HTML](https://microsoftlearning.github.io/AZ-801-Configuring-Windows-Server-Hybrid-Advanced-Services/)
+
 [AZ-801 Assessment (Prüfungsfragen)](https://learn.microsoft.com/credentials/certifications/exams/az-801/practice/assessment?assessment-type=practice&assessmentId=68)
 
 ---
