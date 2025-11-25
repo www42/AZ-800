@@ -41,8 +41,23 @@
 [How we built "Ask Learn", the RAG-based knowledge service](https://devblogs.microsoft.com/engineering-at-microsoft/how-we-built-ask-learn-the-rag-based-knowledge-service/)
 
 
+# Montag
+
+[What is Microsoft Entra Cloud Sync?](https://learn.microsoft.com/en-us/entra/identity/hybrid/cloud-sync/what-is-cloud-sync)
+
+[Self-service password reset policies](https://learn.microsoft.com/en-us/entra/identity/authentication/concept-sspr-policy?tabs=ms-powershell#administrator-password-policy-differences)
+
+[Microsoft Entra Password Protection](https://learn.microsoft.com/en-us/entra/identity/authentication/concept-password-ban-bad-on-premises)
+
+# Dienstag
+
+[PowerShell Remoting Over SSH](https://learn.microsoft.com/en-us/powershell/scripting/security/remoting/ssh-remoting-in-powershell?view=powershell-7.5)
+
+[Windows Admin Center overview](https://learn.microsoft.com/en-us/windows-server/manage/windows-admin-center/overview)
 
 ## Useful Links
+
+[Hybrid identity documentation](https://learn.microsoft.com/en-us/entra/identity/hybrid/)
 
 [Microsoft Ignite 2025](https://ignite.microsoft.com/en-US/home)
 
