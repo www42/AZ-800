@@ -1,8 +1,11 @@
 # Windows Server Hybrid Administrator 
 
 
+## Seminar 24. - 28. November 2025
 
-# AZ-800
+[Get the presentation](pdf/)
+
+## AZ-800
 
 [Learning Pathes](https://learn.microsoft.com/en-us/training/courses/AZ-800T00)
 
@@ -10,7 +13,7 @@
 
 [AZ-800 Assessment (Prüfungsfragen)](https://learn.microsoft.com/credentials/certifications/exams/az-800/practice/assessment?assessment-type=practice&assessmentId=67)
 
-# AZ-801
+## AZ-801
 
 [Learning Pathes](https://learn.microsoft.com/en-us/training/courses/AZ-801T00)
 
@@ -20,13 +23,43 @@
 
 --- 
 
-# Lab Umgebung Skillable
+## Lab Umgebung Skillable
 
 [AZ-800](https://alh.learnondemand.net/Class/722334)
 
 [AZ-801](https://alh.learnondemand.net/Class/722335)
 
+[Change keyboard layout to German](/Keyboard-German/README.md)
+
 ---
+
+## Certification
+
+|   |   |
+| - | - |
+|<img src="https://download69118.blob.core.windows.net/anon/microsoft-certified-associate-badge.svg" width="100"/>|[Microsoft Certified: Windows Server Hybrid Administrator Associate](https://learn.microsoft.com/en-us/credentials/certifications/windows-server-hybrid-administrator/)|
+
+You need to pass both exams to earn certification:
+
+* [Exam AZ-800: Administering Windows Server Hybrid Core Infrastructure](https://learn.microsoft.com/en-us/credentials/certifications/exams/az-800/)
+* [Exam AZ-801: Configuring Windows Server Hybrid Advanced Services](https://learn.microsoft.com/en-us/credentials/certifications/exams/az-801/)
+
+
+<br>                                                                
+
+## New: Microsoft Applied Skills
+
+[Applied Skills - What's that?](https://learn.microsoft.com/en-us/credentials/)
+
+[Browse all Applied Skills](https://learn.microsoft.com/en-us/credentials/browse/?credential_types=applied%20skills)
+
+[AZ-1008 Microsoft Applied Skills: Administer Active Directory Domain Services](https://learn.microsoft.com/en-us/credentials/applied-skills/administer-active-directory-domain-services/)
+
+[AZ-1008 Tasks to solved](/AZ-1008/AZ-1008%20Emails.txt)
+
+<br>
+
+
 
 ## Microsoft Learn
 

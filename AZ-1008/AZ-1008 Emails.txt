@@ -1,0 +1,148 @@
+Subject: General guidelines
+---------------------------
+Thank you for agreeing to help our team administer our Active Directory Domain Services (AD DS) environment.
+
+We have some general guidelines that you must follow when you perform tasks. Please always use the following guidelines:
+• When creating objects, use the default settings unless a different configuration is required to complete the task successfully.
+• Only create, delete, or modify objects to achieve the stated requirements. Unnecessary changes to the environment can adversely affect your final score.
+• If there are multiple approaches to achieving a goal, always choose the approach that requires the least amount of administrative effort.
+
+Thanks,
+Chief Technology Officer (CTO)
+
+
+
+
+Subject: Existing environment
+-----------------------------
+We have an Active Directory Domain Services (AD DS) domain named contoso.com that contains the following servers:
+• DC1: Domain controller
+• DC2: Future domain controller
+
+An organizational unit (OU) named London contains all the user accounts in the domain.
+
+Here are your admin credentials for accessing contoso.com:
+User name: Contoso\Administrator
+Password: Pa55w.rd
+
+Thanks,
+Network administrator
+
+
+
+
+Subject: New domain controller for the Paris office
+---------------------------------------------------
+Hello,
+
+We are opening an office in Paris and plan to deploy an additional domain controller to the new location.
+
+This is your task:
+
+You need to configure DC2 as an additional domain controller for contoso.com. The solution must meet the following requirements:
+• Create a new site named Paris and associate a subnet of 172.16.1.0/24 to the site.
+• Promote DC2 to be a domain controller
+    Ensure that DC2 is assigned to the Paris site.
+    Provide a Directory Services Restore Mode (DSRM) password of Pa55w.rd.
+• After DC2 is promoted, move the RID operations master role to DC2. You may need to complete this step after replication takes place between DC1 and DC2.
+
+Thanks,
+Project Management Team
+
+
+
+
+Subject: Creating Paris objects for the contoso.com domain
+----------------------------------------------------------
+Hello,
+
+We plan to simplify Active Directory Domain Services (AD DS) management by ensuring that all the user accounts at the Paris office are
+placed in an organizational unit (OU) named Paris. The Paris OU must also contain a universal group for managing administrators at the
+Paris office.
+
+A temporary contract user was recently hired to help manage the Paris office users. We plan to have the contractor use a generic account
+named ParisContractor that will be granted permissions to perform the intended management tasks.
+
+This is your task:
+
+You need to create the domain objects for the Paris office. The solution must meet the following requirements:
+• Create an OU named Paris that will contain a user object named ParisContractor and a universal group named Paris Admins.
+• ParisContractor must have an expiration date of December 31, 2027, and be a member of the Paris Admins group.
+• ParisContractor must be configured as a protected account.
+• The Paris Admins group must be able to manage only the passwords of users in the Paris OU.
+
+Thanks,
+Project Management Team
+
+
+
+
+Subject: Moving all Paris user objects to the Paris OU
+------------------------------------------------------
+Hello,
+
+We have several user accounts that have the City attribute set to Paris. We plan to move these user accounts to the Paris OU.
+
+This is your task:
+
+You need to find all the user accounts that have the City attribute set to Paris and move them to the Paris OU. Ensure that the moved user
+accounts have the following configurations:
+• Are disabled after the move.
+• Are forced to change their password at next logon.
+
+Thanks,
+Project Management Team
+
+
+
+
+Subject: Updating password policy and Active Directory Recycle Bin settings
+---------------------------------------------------------------------------
+Hello,
+
+We plan to update the password policies of the contoso.com domain. Also, we need to be able to easily recover deleted Active Directory objects.
+
+This is your task:
+
+You need to increase domain security and reliability. The solution must meet the following requirements:
+• Configure password policy settings to meet the following requirements:
+    - All user accounts in the domain must have a password that has a minimum of 12 characters.
+    - All members of the Domain admins group must be assigned a fine-grained password policy that specifies a password that has a minimum of 16 characters.
+• Enable the Active Directory Recycle Bin.
+
+Thanks,
+Project Management Team
+
+
+
+
+
+Subject: Using Group Policy to apply security settings
+------------------------------------------------------
+Hello,
+
+We use Group Policy to manage the configuration and security settings for domain objects. We need to make changes to our Group Policy Object (GPO) settings.
+
+This is your task:
+
+First, you need to modify the Default Domain Controllers Policy GPO to ensure that the domain controllers deny all NTLM authentication requests to the domain.
+
+Next, you need to create a new GPO named GPO1 that meets the following requirements:
+• Must only apply to objects in the Paris OU.
+• Audits unsuccessful logon events.
+• Prevents the members of the Paris Admins group from being able to log on as a service to computers located in the Paris OU.
+
+Thanks,
+Project Management Team
+
+
+
+
+Subject: Status - Complete
+--------------------------
+Thank you for helping our team administer Active Directory Domain Services (AD DS).
+
+We look forward to working with you again.
+
+Regards,
+Chief Technology Officer (CTO)
