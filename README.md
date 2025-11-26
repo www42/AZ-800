@@ -74,7 +74,9 @@ You need to pass both exams to earn certification:
 [How we built "Ask Learn", the RAG-based knowledge service](https://devblogs.microsoft.com/engineering-at-microsoft/how-we-built-ask-learn-the-rag-based-knowledge-service/)
 
 
-# Montag
+## Montag
+
+[Hybrid identity documentation](https://learn.microsoft.com/en-us/entra/identity/hybrid/)
 
 [What is Microsoft Entra Cloud Sync?](https://learn.microsoft.com/en-us/entra/identity/hybrid/cloud-sync/what-is-cloud-sync)
 
@@ -82,17 +84,21 @@ You need to pass both exams to earn certification:
 
 [Microsoft Entra Password Protection](https://learn.microsoft.com/en-us/entra/identity/authentication/concept-password-ban-bad-on-premises)
 
-# Dienstag
+## Dienstag
 
 [PowerShell Remoting Over SSH](https://learn.microsoft.com/en-us/powershell/scripting/security/remoting/ssh-remoting-in-powershell?view=powershell-7.5)
 
 [Windows Admin Center overview](https://learn.microsoft.com/en-us/windows-server/manage/windows-admin-center/overview)
 
+## Mittwoch
+
+[Azure DNS documentation](https://learn.microsoft.com/en-us/azure/dns/)
+
+<br>
+
 ## Useful Links
 
-[Hybrid identity documentation](https://learn.microsoft.com/en-us/entra/identity/hybrid/)
-
-[Microsoft Ignite 2025](https://ignite.microsoft.com/en-US/home)
+[Microsoft Ignite 2025 - YouTube](https://www.youtube.com/playlist?list=PLXtHYVsvn_b9nLkqxxeh4vqi0lzcdaa7b)
 
 [John Savill's Technical Training - YouTube](https://www.youtube.com/@NTFAQGuy)
 
