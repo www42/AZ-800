@@ -98,6 +98,7 @@ You need to pass both exams to earn certification:
 
 [Azure Migrate documentation](https://learn.microsoft.com/en-us/azure/migrate/?view=migrate)
 
+[Understand the Kusto Query Language statement structure - Training](https://learn.microsoft.com/en-us/training/modules/construct-kusto-query-language-statements/2-understand-kusto-query-language-statement-structure)
 
 <br>
 
