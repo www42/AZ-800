@@ -94,6 +94,11 @@ You need to pass both exams to earn certification:
 
 [Azure DNS documentation](https://learn.microsoft.com/en-us/azure/dns/)
 
+## Freitag
+
+[Azure Migrate documentation](https://learn.microsoft.com/en-us/azure/migrate/?view=migrate)
+
+
 <br>
 
 ## Useful Links
