@@ -94,6 +94,10 @@ You need to pass both exams to earn certification:
 
 [Azure DNS documentation](https://learn.microsoft.com/en-us/azure/dns/)
 
+## Donnerstag
+
+[How Network Security Groups Filter Network Traffic in Azure](https://learn.microsoft.com/en-us/azure/virtual-network/network-security-group-how-it-works)
+
 ## Freitag
 
 [Azure Migrate documentation](https://learn.microsoft.com/en-us/azure/migrate/?view=migrate)
