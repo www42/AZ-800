@@ -61,8 +61,6 @@ You need to pass both exams to earn certification:
 
 [AZ-1008 Microsoft Applied Skills: Administer Active Directory Domain Services](https://learn.microsoft.com/en-us/credentials/applied-skills/administer-active-directory-domain-services/)
 
-[AZ-1008 Tasks to solved](/AZ-1008/AZ-1008%20Emails.txt)
-
 <br>
 
 
