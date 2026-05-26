@@ -41,7 +41,7 @@
 
 |   |   |
 | - | - |
-|<img src="https://download69118.blob.core.windows.net/anon/microsoft-certified-associate-badge.svg" width="100"/>|[Microsoft Certified: Windows Server Hybrid Administrator Associate (will retire on September 30, 2026)](https://learn.microsoft.com/en-us/credentials/certifications/windows-server-hybrid-administrator/)|
+|<img src="https://download69118.blob.core.windows.net/anon/microsoft-certified-associate-badge.svg" width="100"/>|[Microsoft Certified: Windows Server Hybrid Administrator Associate](https://learn.microsoft.com/en-us/credentials/certifications/windows-server-hybrid-administrator/) (will retire on September 30, 2026)|
 
 You need to pass both exams to earn certification:
 
